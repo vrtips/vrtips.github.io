@@ -1,4 +1,4 @@
-baseURL = "https://vrtips.github.io"
+baseURL = "https://vrtips.github.io/vrtips/"
 languageCode = "en-US"
 title = "SesiVR"
 theme = "hago"
@@ -19,4 +19,4 @@ paginate = 4
 
 [Author]
   name = "Sesilaso"
-  website = "https://vrtips.github.io"
+  website = "https://vrtips.github.io/vrtips/"
