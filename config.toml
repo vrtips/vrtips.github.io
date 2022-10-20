@@ -1,12 +1,10 @@
 baseURL = "https://vrtips.github.io/"
 languageCode = "en-US"
-title = "SesiVR"
+title = "VRTips"
 theme = "hago"
 
 DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
-# disqusShortname = "sesivr"
-# googleAnalytics = "UA-XXXXXXXXX-X"
 paginate = 4
 
 [Params]
@@ -19,3 +17,5 @@ paginate = 4
 [Author]
   name = "Sesilaso"
   website = "https://vrtips.github.io/"
+
+# https://github.com/gyuha/hago
