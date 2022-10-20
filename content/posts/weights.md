@@ -63,4 +63,4 @@ VRChat would be doing anyways! (or you can only use that mesh to test and not to
 
 ## Curiosities
 - Weight values are stored with a precision of [16-bit normalized integers](https://docs.unity3d.com/ScriptReference/Mesh.SetBoneWeights.html).
-This is probably cause the total size of 4 wights is then 64 bits and the value can be fetched from memory all together to optimize cache misses c:
+This is probably cause the total size of 4 weights is then 64 bits and the value can be fetched from memory all together to optimize cache misses c:
