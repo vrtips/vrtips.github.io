@@ -12,7 +12,7 @@ tags = [
 +++
 
 # Weighting (Skinning) limits for meshes in VRChat
-Have you ever wondered why the new piece of clothing you just created in Blender, you worked on it for 2 weeks
+Have you ever wondered why the new piece of clothing you just created in Blender is clipping only in VRChat? You worked on it for 2 weeks
 and have tested the most weird positions before even exporting it, then you tested in Unity and it was still good
 but when you upload it to VRChat... it's broken! It clips!!!! WHY!?  
 You rush towards the nearest blanket, grab your Blahaj and question your life decisions...  
