@@ -24,7 +24,7 @@ Well, today we're going to explore what's happening behind the scenes and why th
 Is it Blender exporting weird? But in Unity the mesh was still working perfectly fine so it can't be!  
 Is it VRChat's dev team being too lazy? Well, usually yes but no, not in this case! In fact, the answer to what's
 going on comes right from [their documentation](https://docs.vrchat.com/docs/vrchat-configuration-window#graphics-quality),
-even if it a indirect form...  
+even if in an indirect way...  
 
 The reason for this is that the game is compiled with a pre-set limit for "Skin Weights" of "4 Bones"
 (2 for VR Low and Quest versions of the game).  
