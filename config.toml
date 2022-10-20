@@ -9,7 +9,6 @@ metaDataFormat = "yaml"
 # googleAnalytics = "UA-XXXXXXXXX-X"
 paginate = 4
 
-
 [Params]
   description = "VRChat avatar creation blog for tips and tricks from a simple user"
   subtitle = "VRChat Creators tips"
