@@ -57,9 +57,9 @@ This is confusing... except that you can also do the same process to the base fi
 VRChat would be doing anyways! (or you can only use that mesh to test and not to import into Unity, your choice...)
 
 ## References
-[1] https://docs.unity3d.com/ScriptReference/ModelImporter-maxBonesPerVertex.html
-[2] https://docs.vrchat.com/docs/vrchat-configuration-window#graphics-quality
-[3] https://docs.unity3d.com/ScriptReference/QualitySettings-skinWeights.html
+[1] https://docs.unity3d.com/ScriptReference/ModelImporter-maxBonesPerVertex.html  
+[2] https://docs.vrchat.com/docs/vrchat-configuration-window#graphics-quality  
+[3] https://docs.unity3d.com/ScriptReference/QualitySettings-skinWeights.html  
 
 ## Curiosities
 - Weight values are stored with a precision of [16-bit normalized integers](https://docs.unity3d.com/ScriptReference/Mesh.SetBoneWeights.html).
