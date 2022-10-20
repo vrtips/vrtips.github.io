@@ -1,0 +1,22 @@
+baseURL = "https://vrtips.github.io"
+languageCode = "en-US"
+title = "SesiVR"
+theme = "hago"
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+# disqusShortname = "sesivr"
+# googleAnalytics = "UA-XXXXXXXXX-X"
+paginate = 4
+
+
+[Params]
+  description = "VRChat avatar creation blog for tips and tricks from a simple user"
+  subtitle = "VRChat Creators tips"
+  logo = "/images/sesivrlogo.png"
+  favicon = "favicon.ico"
+  comments = false
+
+[Author]
+  name = "Sesilaso"
+  website = "https://vrtips.github.io"

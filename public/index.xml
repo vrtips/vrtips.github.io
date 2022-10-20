@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SesiVR</title>
+    <link>https://YOUR_NAME.github.io/</link>
+    <description>Recent content on SesiVR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Aug 2021 14:31:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://YOUR_NAME.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toggles</title>
+      <link>https://YOUR_NAME.github.io/posts/toggles/</link>
+      <pubDate>Tue, 10 Aug 2021 14:31:33 +0200</pubDate>
+      
+      <guid>https://YOUR_NAME.github.io/posts/toggles/</guid>
+      <description>Methods There are 2 ways to make toggles, one is the most common ones if you look at tutorials online and follows the VRChat request/standard to not use &amp;ldquo;Write Defaults&amp;rdquo; in animations. The other is an alternative way that goes a bit against the standard put in by VRChat but is, in my opinion and only for simple toggles, a little bit faster and less prone to errors.</description>
+    </item>
+    
+  </channel>
+</rss>
